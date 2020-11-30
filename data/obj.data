@@ -2,4 +2,4 @@ classes = 7
 train = data/train.txt
 valid = data/test.txt
 names = data/obj.names
-backup = backup/
+backup = /content/drive/MyDrive/Nancy_Phd/yolov3_dataset/yolov3-custom-weights-backup/
